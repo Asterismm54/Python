@@ -1,0 +1,9 @@
+To check Python version in cmd:  py 
+                               or 
+                                 py -V
+                          
+To check Git version in cmd:  git --version
+
+
+More later.
+
