@@ -5,5 +5,8 @@ To check Python version in cmd:  py
 To check Git version in cmd:  git --version
 
 
-More later.
+To clone a repository to local drive:
+git clone https://github.com/githubnickname/name-of-repository.git
 
+
+More later.
