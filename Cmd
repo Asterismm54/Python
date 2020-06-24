@@ -9,6 +9,6 @@ To clone a repository to local drive:
 git clone https://github.com/githubnickname/name-of-repository.git
 
 
-To run script directory from desktop:
+To run script from desktop:
 cd Desktop
 filename.py
